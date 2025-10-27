@@ -57,8 +57,8 @@ The modpack uses a **v1.2.3** numbering system:
 - Updates happen mainly when Minecraft updates or I add new mods. Broken mods may be temporarily disabled.
 - I’ll keep it updated to whatever version I’m currently playing — right now that’s **Minecraft 1.21.10**
 - If you've read this far... Why not leave a **Like**? 
-
-## 📜 License & Credits
+---
+## ⚖️ License & Credits
 - **License:** [MIT](https://opensource.org/licenses/MIT)  
   Feel free to share, modify, or remix this pack — just please include credit.  
 - All included mods belong to their respective authors  
