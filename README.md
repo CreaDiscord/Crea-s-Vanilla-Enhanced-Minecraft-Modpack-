@@ -1,18 +1,26 @@
 ![TitleBanner](https://cdn.modrinth.com/data/cached_images/5235bd7e04ec07da4aeef0029f58dbba5cbdb1ff.png)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/YPiijgeZ?style=for-the-badge&logo=modrinth&label=Downloads) ![Modrinth Followers](https://img.shields.io/modrinth/followers/YPiijgeZ?style=for-the-badge&logo=modrinth)
+
 
 # 📜 Crea’s Vanilla Enhanced
  
-A lightweight **Fabric** modpack that keeps Minecraft feeling **vanilla**—just smoother and more convenient.  
+A lightweight **Fabric** modpack that keeps Minecraft feeling **vanilla**—just **smoother performance**, **better visuals** and a few more **convenient features**.  
 
-No new blocks, items, or world generation—just small tweaks and quality-of-life improvements to make the game nicer.
+**No new blocks**, **items**, or **world generation**—just small tweaks and quality-of-life improvements to make the game nicer.
 
-## 💬 Why I Made This Pack
+<details>
+<summary>💬 Why I Made This Pack
+</summary>
 
-A lot of modpacks I see online either have too much **bloat**, **missing features**, or just **too many features**.  
+A lot of modpacks I see either have too much **bloat**, change the **world generation**, have **missing features**, or just **too many features**.  
 
-I made this pack for good **performance**, a game that **sounds and looks beautiful**, and the **features I enjoy** are ready to go.    
+I made this pack for good **performance**, a game that **sounds and looks beautiful**, has **Vanilla World Generation**, and the **features I enjoy** ready to go.    
 
 _I wouldn't normally share modpacks but after the change in update pace I thought I should start sharing to hopefully save some of you the stress of modding the game._
+
+</details>
+
+
 
 ## ✨ Some Features
 
@@ -37,7 +45,7 @@ _I wouldn't normally share modpacks but after the change in update pace I though
 
 ### Inventory & Management additions:
 
-- 🎒 **InvMove** & **MouseTweaks** make your inventory nicer to use
+- 🎒 **InvMove** & **MouseTweaks** make your Inventory easier & smoother to use
 - 🧰 **Inventory Management** helps organise your chests and inventory
 - 🔬 **Smooth Gui** & **Blur+** to make menus pop 
 - 💾 **Cherished Worlds** to back-up your worlds so you never lose progress  
@@ -48,6 +56,8 @@ _I wouldn't normally share modpacks but after the change in update pace I though
 - 🐦 **AmbientSounds** & **Presence Footsteps** to add life to the world 
 
 **And many more...**    
+_No Resource packs or Shaders included_
+
 <details>
 <summary> Mod list collections </summary>
 
@@ -75,13 +85,11 @@ The modpack uses a **v1.2.3** numbering system:
 ---
 
 ## 💡 Future Plans
-- Try keep Mods consistent through major version updates.
-- Find a stable version without downgrading. _Like how 1.21.1 is the favourite to mod right now._
+- Try to keep mods consistent through major version updates.
 - Add more fun visuals, qol and performance mods.
 
 ## 💬 Notes
 - **Fabric** modpack only
-- I don't include a shader pack
 - Updates happen mainly when Minecraft updates or I add new mods. Broken mods may be temporarily disabled
 - I’ll keep it updated to whatever version I’m currently playing — right now that’s **Minecraft 1.21.10**
 - If you've read this far... Why not leave a **Like**?
